@@ -18,6 +18,7 @@ I am a student aiming to achieve a degree in Computer Science. Starting studies 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-864BC8?style=flat-square&logo=Visual-Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-3C99D4?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-1379E8?style=flat-square&logo=Intellij-IDEA&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-21D28B?style=flat-square&logo=JetBrains&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019432?style=flat-square&logo=Vim&logoColor=white)
 ![Qt Creator](https://img.shields.io/badge/Qt%20Creator-3FC750?style=flat-square&logo=qt&logoColor=white)
 
