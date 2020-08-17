@@ -26,6 +26,12 @@ I am a student aiming to achieve a degree in Computer Science. Starting studies 
 ![Git](https://img.shields.io/badge/Git-F05030?style=flat-square&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-00529B?style=flat-square&logo=cmake&logoColor=white)
 
+### Operating Systems
+
+![Windows 10](https://img.shields.io/badge/Windows%2010-0A6DC0?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-020203?style=flat-square&logo=linux&logoColor=white)
+![Mac OS](https://img.shields.io/badge/Mac%20OS-535253?style=flat-square&logo=apple&logoColor=white)
+
 ### Learning
 
 ![Rust](https://img.shields.io/badge/Rust-E43717?style=flat-square&logo=rust&logoColor=white)
