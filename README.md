@@ -5,7 +5,7 @@ I'm a 2nd year Computer Science student at Loughborough University.
 ## Interests
 - ☁️ Cloud Computing
 
-### Languages & Tools
+## Languages & Tools
 
 ![C](https://img.shields.io/badge/C-A9BACD?style=flat&logo=C&labelColor=111)
 ![C++](https://img.shields.io/badge/C++-5C8DBC?style=flat&logo=C%2b%2b&labelColor=111&logoColor=5c8dbc)
