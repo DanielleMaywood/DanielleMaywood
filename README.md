@@ -1,7 +1,5 @@
 # Hi, I'm Dan 👋
 
-### About Me
-
 I'm a 2nd year Computer Science student at Loughborough University.
 
 ### Languages
