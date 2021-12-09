@@ -1,8 +1,8 @@
-# Hi there, I'm Daniel 👋
+# Hi, I'm Daniel 👋
 
 ### About Me
 
-I am a student aiming to achieve a degree in Computer Science. Starting studies at Loughborough University September/October 2020.
+I'm a 2nd year Computer Science student at Loughborough University.
 
 ### Languages
 
