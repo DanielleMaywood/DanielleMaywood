@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋
+# Hi, I'm Dan 👋
 
 ### About Me
 
