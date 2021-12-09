@@ -7,7 +7,7 @@ I'm a 2nd year Computer Science student at Loughborough University.
 
 ### Languages & Tools
 
-![C](https://img.shields.io/badge/C-A9BACD?style=flat-square&logo=C&logoColor=white)
+![C](https://img.shields.io/badge/C-A9BACD?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-5C8DBC?style=flat-square&logo=C%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3476A9?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F8D43C?style=flat-square&logo=JavaScript&logoColor=white)
