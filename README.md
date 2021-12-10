@@ -18,3 +18,4 @@ I'm a 2nd year Computer Science student at Loughborough University.
 
 ![Rust](https://img.shields.io/badge/Rust-E43717?style=flat&logo=rust&labelColor=111&logoColor=E43717)
 ![C#](https://img.shields.io/badge/C%23-7b83e8?style=flat&logo=c-sharp&labelColor=111&logoColor=7b83e8)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&labelColor=111&logoColor=#F05138)
